@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name='clear_sky'>Cielo despejado</string>
+    <string name='mainlyClear'>Principalmente claro</string>
+    <string name='prtly_cloudy'>Parcialmente nublado</string>
+    <string name='overcast'>Nublado</string>
+    <string name='foggy'>Brumoso</string>
+    <string name='drf'>Depositando neblina de escarcha</string>
+    <string name='light_drizzle'>Llovizna ligera</string>
+    <string name='md'>Llovizna moderada</string>
+    <string name='dd'>Llovizna densa</string>
+    <string name='sfd'>Ligera llovizna helada</string>
+    <string name='dfd'>Densa llovizna helada</string>
+    <string name='slight_rain'>Lluvia ligera</string>
+    <string name='rainy'>Lluvia</string>
+    <string name='heavy_rain'>Lluvia intensa</string>
+    <string name='hfr'>Fuerte lluvia helada</string>
+    <string name='ssf'>Ligera caída de nieve</string>
+    <string name='moderate_snow'>Caída moderada de nieve</string>
+    <string name='heavy_snow'>Caída de nieve intensa</string>
+    <string name='sg'>Granos de nieve</string>
+    <string name='srs'>Lluvias ligeras</string>
+    <string name='mrs'>Lluvias moderadas</string>
+    <string name='vrs'>Lluvias violentas</string>
+    <string name='lss'>Lluvias de nieve ligeras</string>
+    <string name='hss'>Fuertes chubascos de nieve</string>
+    <string name='mdd'>Tormenta eléctrica moderada</string>
+    <string name='tlgds'>Tormenta con granizo leve</string>
+    <string name='tagas'>Tormenta con fuerte granizo</string>
+</resources>

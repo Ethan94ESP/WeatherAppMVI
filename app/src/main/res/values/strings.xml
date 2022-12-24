@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">WeatherAppMVI</string>
+    <string name="today">Today</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="mainlyClear">Mainly clear</string>
+    <string name="prtly_cloudy">Partly cloudy</string>
+    <string name="overcast">Overcast</string>
+    <string name="foggy">Foggy</string>
+    <string name="drf">Depositing rime fog</string>
+    <string name="light_drizzle">Light drizzle</string>
+    <string name="md">Moderate drizzle</string>
+    <string name="dd">Dense drizzle</string>
+    <string name="sfd">Slight freezing drizzle</string>
+    <string name="dfd">Dense freezing drizzle</string>
+    <string name="slight_rain">Slight rain</string>
+    <string name="rainy">Rainy</string>
+    <string name="heavy_rain">Heavy rain</string>
+    <string name="hfr">Heavy freezing rain</string>
+    <string name="ssf">Slight snow fall</string>
+    <string name="moderate_snow">Moderate snow fall</string>
+    <string name="heavy_snow">Heavy snow fall</string>
+    <string name="sg">Snow grains</string>
+    <string name="srs">Slight rain showers</string>
+    <string name="mrs">Moderate rain showers</string>
+    <string name="vrs">Violent rain showers</string>
+    <string name="lss">Light snow showers</string>
+    <string name="hss">Heavy snow showers</string>
+    <string name="mdd">Moderate thunderstorm</string>
+    <string name="tlgds">Thunderstorm with slight hail</string>
+    <string name="tagas">Thunderstorm with heavy hail</string>
 </resources>
