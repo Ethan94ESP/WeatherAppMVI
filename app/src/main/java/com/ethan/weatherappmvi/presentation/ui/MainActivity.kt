@@ -16,7 +16,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import androidx.core.content.ContentProviderCompat.requireContext
 import com.ethan.weatherappmvi.presentation.WeatherViewModel
 import com.ethan.weatherappmvi.presentation.ui.components.WeatherCard
 import com.ethan.weatherappmvi.presentation.ui.components.WeatherForecast
@@ -61,7 +60,8 @@ class MainActivity : ComponentActivity() {
                     }
                     if(viewModel.state.isLoading) {
                         CircularProgressIndicator(
-                            modifier = Modifier.align(Alignment.Center)
+                            modifier = Modifier.align(Alignment.Center),
+                            color = Color.Black
                         )
                     }
                     viewModel.state.error?.let { error ->

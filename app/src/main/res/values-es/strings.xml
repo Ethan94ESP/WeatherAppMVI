@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">WeatherAppMVI</string>
+    <string name="today">Hoy</string>
     <string name='clear_sky'>Cielo despejado</string>
     <string name='mainlyClear'>Principalmente claro</string>
     <string name='prtly_cloudy'>Parcialmente nublado</string>
