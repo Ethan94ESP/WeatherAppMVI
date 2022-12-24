@@ -71,7 +71,7 @@ fun WeatherDto.toWeatherInfo(lat: Double, long: Double, context: Context): Weath
         val hour = if(now.minute < 30)
             now.hour
         else if(now.hour == 23)
-            00.00
+            0
         else
             now.hour+1
 
